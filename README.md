@@ -1,2 +1,3 @@
-Refactory web site od Nancy
-Add styles with arch BEM 
+## Refactory web site of Nancy
+
+* Add styles with arch BEM 
